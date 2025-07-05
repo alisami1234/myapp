@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>سياسة الخصوصية - سوق الجنوب</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+      line-height: 1.8;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+      background-color: #fff;
+      box-shadow: 0 0 20px rgba(0,0,0,0.05);
+      border-radius: 12px;
+      margin-top: 60px;
+    }
+    h1 {
+      color: #00695c;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #00796b;
+      margin-top: 30px;
+    }
+    ul {
+      padding-right: 20px;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>سياسة الخصوصية – تطبيق سوق الجنوب</h1>
+    
+    <p>نحن نحترم خصوصيتك ونلتزم بحماية بياناتك. باستخدامك لتطبيق "سوق الجنوب"، فإنك توافق على ما يلي:</p>
+    
+    <h2>المعلومات التي نجمعها:</h2>
+    <ul>
+      <li>الاسم، رقم الهاتف أو البريد الإلكتروني</li>
+      <li>موقعك الجغرافي (عند الموافقة)</li>
+      <li>الصور والمحتوى الذي تنشره داخل التطبيق</li>
+    </ul>
+
+    <h2>لماذا نجمع هذه البيانات؟</h2>
+    <ul>
+      <li>لعرض الإعلانات والخدمات القريبة منك</li>
+      <li>لتحسين تجربة المستخدم</li>
+      <li>لإرسال تنبيهات تهمك فقط</li>
+    </ul>
+
+    <h2>خصوصية الموقع الجغرافي:</h2>
+    <ul>
+      <li>لا نقوم بتتبعك أو تخزين موقعك دون إذنك</li>
+      <li>يمكنك رفض الإذن وسنحترم اختيارك</li>
+    </ul>
+
+    <h2>حذف الحساب:</h2>
+    <p>يمكنك طلب حذف بياناتك نهائيًا في أي وقت عبر التواصل معنا.</p>
+
+    <h2>التواصل معنا:</h2>
+    <p>لأي استفسار: راسلنا عبر البريد الإلكتروني <strong>omarimran1267@gmail.com</strong> أو عبر <strong>واتساب</strong>.</p>
+
+    <p><strong>باستخدامك لهذا التطبيق، فإنك توافق على سياسة الخصوصية هذه.</strong></p>
+
+    <footer>
+      &copy; 2025 سوق الجنوب. جميع الحقوق محفوظة.
+    </footer>
+  </div>
+</body>
+</html>
